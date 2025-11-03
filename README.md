@@ -1,7 +1,7 @@
 # About-the-Discovery-Lab.github
-This page gives you an overview of the Discovery Lab - what the lab does? who can access? how can you get involved
+This page gives you an overview of the Discovery Lab - What is in the lab? what can you do? where can you go to learn more
 
-The Discovery Lab - https://xl.vt.edu/discovery-lab.html is Virginia Tech’s newest experiential learning space for student-led collaborative research, prototyping, and experimentation. 
+The Discovery Lab is Virginia Tech’s newest experiential learning space for student-led collaborative research, prototyping, and experimentation - https://xl.vt.edu/discovery-lab.html. 
  
 As a cornerstone for innovation on campus, the Discovery Lab is a one-of-a-kind environment outfitted with specialized instruments and equipment, where classroom knowledge meets hands-on exploration and industry-relevant skills. 
 
@@ -17,7 +17,7 @@ The Discovery Lab occupies 6,400 square feet on the first floor of the Undergrad
 
 <img width="800" height="566" alt="image" src="https://github.com/user-attachments/assets/382eec76-36b5-4ba0-9372-c9d585c1bca7" />
 
-Its many work areas include:
+Its many technical spaces include:
 -A dirty lab for sample intake and processing
 -Wet and dry labs
 -Fabrication lab
@@ -26,8 +26,10 @@ Its many work areas include:
 -3D printing lab
 -Data analytics space
 
+Learn more about the spaces here - https://xl.vt.edu/discovery-lab/instruments-and-equipment.html
+
 **Key Instruments**
-The Lab is equipped with full suite of analysis and fabrication equipment that enable a wide scope of projects, from method development to device manufacture:
+The Lab is equipped with full suite of scientific, analytical, and fabrication equipment that enable a wide scope of projects, from method development to device manufacture:
 -Suite of sample processing tools
 -Infrared/Raman microscopy
 -Fluorescence/UV microscopy
@@ -38,11 +40,9 @@ The Lab is equipped with full suite of analysis and fabrication equipment that e
 -X-ray fluorescence spectrometry/elemental analysis
 -Microfluidics and circuit board printers
 -Computer Numerical Control (CNC) Mill
--Data analytics suite
+-Data analytics space
 
-In addition to the equipment housed in its technical spaces, the Lab is able to temporarily host loaned equipment required for class and research activities. 
-
-
+In addition to the equipment housed in its technical spaces, the Discover Lab is able to temporarily host loaned equipment required for class and research activities. 
 
 **Who We Serve**
 The Lab is available to any student at Virginia Tech who has completed the required safety and technical training. All instruments in the Lab are also accessible to students and faculty working in other areas of the Undergraduate Science Laboratory Building.
