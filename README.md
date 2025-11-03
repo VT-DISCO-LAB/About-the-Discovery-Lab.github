@@ -53,4 +53,4 @@ Faculty and departments can also request materials to support their classes and 
 Industry partners can engage with students, have a hand in guiding their professional development, and potentially recruit — while addressing issues of importance to their operations.
 
 ## **Links to Important Resources**
-* Are you a new student user? [Use this template to get your lab notebook started](https://github.com/VT-DISCO-LAB/Independent-Student-Projects)
+* Are you a new student user? [Use this template to get your lab notebook started](https://github.com/VT-DISCO-LAB/individual_student_Template)
