@@ -38,7 +38,8 @@ The Lab is equipped with full suite of scientific, analytical, and fabrication e
 -Laser diffraction particle size analysis
 -Field deployable electrochemical detection platforms
 -X-ray fluorescence spectrometry/elemental analysis
--Microfluidics and circuit board printers
+-Microfluidics
+-Circuit board printer
 -Computer Numerical Control (CNC) Mill
 -Data analytics space
 
