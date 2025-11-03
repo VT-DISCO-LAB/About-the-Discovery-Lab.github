@@ -1,7 +1,7 @@
 # About-the-Discovery-Lab.github
 This page gives you an overview of the Discovery Lab - What is in the lab? what can you do? where can you go to learn more
 
-The Discovery Lab is Virginia Tech’s newest experiential learning space for student-led collaborative research, prototyping, and experimentation - https://xl.vt.edu/discovery-lab.html. 
+[The Discovery Lab is Virginia Tech’s newest experiential learning space for student-led collaborative research, prototyping, and experimentation](https://xl.vt.edu/discovery-lab.html). 
  
 As a cornerstone for innovation on campus, the Discovery Lab is a one-of-a-kind environment outfitted with specialized instruments and equipment, where classroom knowledge meets hands-on exploration and industry-relevant skills. 
 
@@ -26,7 +26,7 @@ Its many technical spaces include:
 -3D printing lab
 -Data analytics space
 
-Learn more about the spaces here - https://xl.vt.edu/discovery-lab/instruments-and-equipment.html
+[Learn more about the spaces here](https://xl.vt.edu/discovery-lab/instruments-and-equipment.html)
 
 **Key Instruments**
 The Lab is equipped with full suite of scientific, analytical, and fabrication equipment that enable a wide scope of projects, from method development to device manufacture:
@@ -51,3 +51,6 @@ The Lab is available to any student at Virginia Tech who has completed the requi
 Faculty and departments can also request materials to support their classes and activities, integrate the Lab’s equipment into their coursework, and serve as mentors to student research teams.
 
 Industry partners can engage with students, have a hand in guiding their professional development, and potentially recruit — while addressing issues of importance to their operations.
+
+**Links to Important Resources**
+
